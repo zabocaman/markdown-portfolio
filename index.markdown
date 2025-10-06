@@ -7,7 +7,10 @@
 
 ---
 
-## 💼 Projects
+## [My Hobbies](hobbies.markdown)
+Running, Content Creation, Writing
+
+## 💼 Classes/Projects
 
 ### [Front-End Web Development (HTTP-5122)](https://github.com/zabocaman/Front-End-Web-Development---HTTP-5122-0NA)
 - JavaScript, DOM manipulation, functions, arrays, loops  
