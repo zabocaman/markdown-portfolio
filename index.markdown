@@ -10,6 +10,8 @@
 ## [My Hobbies](hobbies.markdown)
 Running, Content Creation, Writing
 
+[selfie.png]
+
 ## 💼 Classes/Projects
 
 ### [Front-End Web Development (HTTP-5122)](https://github.com/zabocaman/Front-End-Web-Development---HTTP-5122-0NA)
