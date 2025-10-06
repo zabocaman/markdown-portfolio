@@ -10,7 +10,8 @@
 ## [My Hobbies](hobbies.markdown)
 Running, Content Creation, Writing
 
-[selfie.png]
+<img src="selfie.png" width="400">
+
 
 ## 💼 Classes/Projects
 
